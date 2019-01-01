@@ -1,0 +1,9 @@
+
+this Springboot project aims to serve as a template for a web application with a landing page and multiple other pages that can be served from the navbar
+
+it uses the following technologies/frameworks
+- bootstrap 3.3.7
+- jquery 3.3.1
+- Thymeleaf
+
+
